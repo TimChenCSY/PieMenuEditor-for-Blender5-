@@ -1,4 +1,4 @@
-IMPORTANT: Make sure to export all your original shortcuts before installing this one! 
+IMPORTANT: Make sure to export all your original shortcuts before installing this one! You can use the import function to then to restore everything. 
 
 # PieMenuEditor for Blender5+
 A fork of Pie Menu Editor, now ready for blender 5.0+
