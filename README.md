@@ -1,3 +1,5 @@
+IMPORTANT: Make sure to export all your original shortcuts before installing this one! 
+
 # PieMenuEditor for Blender5+
 A fork of Pie Menu Editor, now ready for blender 5.0+
 
