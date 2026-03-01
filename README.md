@@ -12,5 +12,12 @@ All the credits go to the original creator: https://roaoao.gumroad.com/l/pie_men
 Sadly, I couldn't find Roaoao's contact. But this fork is permitted under the original General Public License 2.0
 
 This fork of the original addon aims to keep the original functionality intact for future Blender versions, as long as I'm still using this addon.
+Maintenance can be expected for future blender versions, but no new features were planned at the moment. 
 
 Please submit a ticket if you have encountered any issues! 
+
+
+alt fork: 
+https://github.com/Pluglug/pie-menu-editor-fork?tab=readme-ov-file
+Pluglug had created an alternative version of the pie menu editor for Blender 5.0, now archived. 
+
